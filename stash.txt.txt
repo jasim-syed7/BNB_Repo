@@ -1,0 +1,10 @@
+class Hello{
+
+        int i = 10;
+        int j =20;
+//Task-101
+
+
+        m1() {
+        }
+//Task-120
